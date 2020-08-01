@@ -7,6 +7,7 @@ import HeatherNuffer2 from '../images/HeatherNuffer2.png';
 import RyanBarnhill from '../images/RyanBarnhill.png';
 import StephenTanksley from '../images/StephenTanksley.png';
 import MichaelLowe from '../images/MichaelLowe.png';
+import MichaelLuck from '../images/MichaelLuck.png';
 
 const projects = [
   {
@@ -53,6 +54,11 @@ const projects = [
     url: 'https://conways-game-of-life-cs-bw-1.vercel.app/',
     name: 'Michael Lowe',
     imgSrc: MichaelLowe,
+  },
+  {
+    url: 'https://wonderful-colden-ec392d.netlify.app/',
+    name: 'Michael Luck',
+    imgSrc: MichaelLuck,
   },
 ];
 
