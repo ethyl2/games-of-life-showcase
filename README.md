@@ -47,6 +47,9 @@ that result from the rules for the game.
 
 ## Please feel free to add your Game of Life to this showcase, and then submit a pull request!
 
+1. Add a screenshot of your game in the src/images directory.
+2. In src/data/projects, import your image and add an object with your url, name, and imgSrc in the projects array.
+
 ---
 
 ## Available Scripts
