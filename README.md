@@ -1,4 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed9c5973-2adb-43ec-8a53-5797f65d94e8/deploy-status)](https://app.netlify.com/sites/gof-showcase/deploys)
+
+# Games of Life Showcase
+
+## This app displays cards, which all are links to different people's implementation of Conway's Game of Life.
+
+It is quite interesting to see how everyone's game is unique, with different features and styles.
+
+---
+
+## What is the Game of Life?
+
+It is a 'cellular automaton' invented by Cambridge mathematician John Conway in 1970.
+
+The board contains of cells which will live, die or multiply, depending on the rules.
+
+Depending on the initial layout of the grid, the cells may form various patterns as the game advances.
+
+Our implementations repeatedly update each cell in the grid, displaying the next generations of cells
+that result from the rules for the game.
+
+### The Rules
+
+#### If a cell is alive:
+
+- If it has only 0-1 alive neighbors, it dies, representing underpopulation.
+- If it has 2-3 alive neighbors, it lives on to the next generation.
+- If it has more than 3 alive neighbors, it dies, representing overpopulation.
+
+#### If a cell is dead:
+
+- If it has exactly 3 alive neighbors, it becomes a live cell, representing reproduction.
+- Otherwise, it remains dead.
+
+---
+
+## How to run this app locally:
+
+1. Fork and clone this repository.
+2. In terminal, run `npm i`.
+3. In terminal, run `npm start`.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+---
+
+## Please feel free to add your Game of Life to this showcase, and then submit a pull request!
+
+---
 
 ## Available Scripts
 
