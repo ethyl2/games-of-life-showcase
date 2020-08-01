@@ -4,6 +4,7 @@ import XuHuiZhu from '../images/XuHuiZhu.png';
 import LoganNegley from '../images/LoganNegley.png';
 import HeatherNuffer1 from '../images/HeatherNuffer1.png';
 import HeatherNuffer2 from '../images/HeatherNuffer2.png';
+import RyanBarnhill from '../images/RyanBarnhill.png';
 
 const projects = [
   {
@@ -35,6 +36,11 @@ const projects = [
     url: 'https://litebrite-game-of-life.netlify.app/',
     name: 'Heather Nuffer',
     imgSrc: HeatherNuffer2,
+  },
+  {
+    url: 'https://74ultra.github.io/',
+    name: 'Ryan Barnhill',
+    imgSrc: RyanBarnhill,
   },
 ];
 
