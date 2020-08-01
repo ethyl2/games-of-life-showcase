@@ -5,6 +5,7 @@ import LoganNegley from '../images/LoganNegley.png';
 import HeatherNuffer1 from '../images/HeatherNuffer1.png';
 import HeatherNuffer2 from '../images/HeatherNuffer2.png';
 import RyanBarnhill from '../images/RyanBarnhill.png';
+import StephenTanksley from '../images/StephenTanksley.png';
 
 const projects = [
   {
@@ -41,6 +42,11 @@ const projects = [
     url: 'https://74ultra.github.io/',
     name: 'Ryan Barnhill',
     imgSrc: RyanBarnhill,
+  },
+  {
+    url: 'https://tanksley-gameoflife.netlify.app/',
+    name: 'Stephen Tanksley',
+    imgSrc: StephenTanksley,
   },
 ];
 
