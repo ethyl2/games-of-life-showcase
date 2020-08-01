@@ -2,6 +2,8 @@
 
 # Games of Life Showcase
 
+https://gof-showcase.netlify.app/
+
 ## This site displays cards, which all are links to different people's implementations of Conway's Game of Life.
 
 It is quite interesting to see how everyone's game is unique, with different features and styles.
