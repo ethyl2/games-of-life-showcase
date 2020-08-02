@@ -8,6 +8,7 @@ import RyanBarnhill from '../images/RyanBarnhill.png';
 import StephenTanksley from '../images/StephenTanksley.png';
 import MichaelLowe from '../images/MichaelLowe.png';
 import MichaelLuck from '../images/MichaelLuck.png';
+import HeatherNuffer3 from '../images/HeatherNuffer3.png';
 
 const projects = [
   {
@@ -59,6 +60,11 @@ const projects = [
     url: 'https://wonderful-colden-ec392d.netlify.app/',
     name: 'Michael Luck',
     imgSrc: MichaelLuck,
+  },
+  {
+    url: 'https://fiery-game-of-life.netlify.app/',
+    name: 'Heather Nuffer',
+    imgSrc: HeatherNuffer3,
   },
 ];
 
