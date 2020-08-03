@@ -12,6 +12,7 @@ import HeatherNuffer3 from '../images/HeatherNuffer3.png';
 import SophiaJung from '../images/SophiaJung.png';
 import SamuelTorres from '../images/SamuelTorres.png';
 import JensenKoch from '../images/JensenKoch.png';
+import DajuanMcdonald from '../images/DajuanMcdonald.png';
 
 const projects = [
   {
@@ -83,6 +84,11 @@ const projects = [
     url: 'https://conways-game-of-life-plum.vercel.app/',
     name: 'Jensen Koch',
     imgSrc: JensenKoch,
+  },
+  {
+    url: 'https://dajuanmcdonald.github.io/Cellular-Automaton/',
+    name: 'Dajuan Mcdonald',
+    imgSrc: DajuanMcdonald,
   },
 ];
 
