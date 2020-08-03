@@ -18,6 +18,7 @@ import RuthPoliakon from '../images/RuthPoliakon.png';
 import KevinCarr from '../images/KevinCarr.png';
 import BradleyPitts from '../images/BradleyPitts.png';
 import RoseLandroche from '../images/RoseLandroche.png';
+import RayThurman from '../images/RayThurman.png';
 
 const projects = [
   {
@@ -119,6 +120,11 @@ const projects = [
     url: 'https://awesome-ramanujan-7d7ef5.netlify.app/',
     name: 'Rose Landroche',
     imgSrc: RoseLandroche,
+  },
+  {
+    url: 'https://raysgameoflife.netlify.app/',
+    name: 'Ray Thurman',
+    imgSrc: RayThurman,
   },
 ];
 
