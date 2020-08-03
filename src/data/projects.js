@@ -14,6 +14,7 @@ import SamuelTorres from '../images/SamuelTorres.png';
 import JensenKoch from '../images/JensenKoch.png';
 import DajuanMcdonald from '../images/DajuanMcdonald.png';
 import CandaceWilson from '../images/CandaceWilson.png';
+import RuthPoliakon from '../images/RuthPoliakon.png';
 
 const projects = [
   {
@@ -95,6 +96,11 @@ const projects = [
     url: 'https://sharp-bassi-d19239.netlify.app/',
     name: 'Candace Wilson',
     imgSrc: CandaceWilson,
+  },
+  {
+    url: 'https://gameolife.netlify.app/',
+    name: 'Ruth Poliakon',
+    imgSrc: RuthPoliakon,
   },
 ];
 
