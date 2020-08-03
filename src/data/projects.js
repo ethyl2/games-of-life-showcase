@@ -19,6 +19,7 @@ import KevinCarr from '../images/KevinCarr.png';
 import BradleyPitts from '../images/BradleyPitts.png';
 import RoseLandroche from '../images/RoseLandroche.png';
 import RayThurman from '../images/RayThurman.png';
+import LynNguyen from '../images/LynNguyen.png';
 
 const projects = [
   {
@@ -125,6 +126,11 @@ const projects = [
     url: 'https://raysgameoflife.netlify.app/',
     name: 'Ray Thurman',
     imgSrc: RayThurman,
+  },
+  {
+    url: 'https://conways-gameoflife.netlify.app/',
+    name: 'Lyn Nguyen',
+    imgSrc: LynNguyen,
   },
 ];
 
