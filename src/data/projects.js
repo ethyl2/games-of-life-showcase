@@ -13,6 +13,7 @@ import SophiaJung from '../images/SophiaJung.png';
 import SamuelTorres from '../images/SamuelTorres.png';
 import JensenKoch from '../images/JensenKoch.png';
 import DajuanMcdonald from '../images/DajuanMcdonald.png';
+import CandaceWilson from '../images/CandaceWilson.png';
 
 const projects = [
   {
@@ -89,6 +90,11 @@ const projects = [
     url: 'https://dajuanmcdonald.github.io/Cellular-Automaton/',
     name: 'Dajuan Mcdonald',
     imgSrc: DajuanMcdonald,
+  },
+  {
+    url: 'https://sharp-bassi-d19239.netlify.app/',
+    name: 'Candace Wilson',
+    imgSrc: CandaceWilson,
   },
 ];
 
