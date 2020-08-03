@@ -10,6 +10,7 @@ import MichaelLowe from '../images/MichaelLowe.png';
 import MichaelLuck from '../images/MichaelLuck.png';
 import HeatherNuffer3 from '../images/HeatherNuffer3.png';
 import SophiaJung from '../images/SophiaJung.png';
+import SamuelTorres from '../images/SamuelTorres.png';
 
 const projects = [
   {
@@ -71,6 +72,11 @@ const projects = [
     url: 'https://elegant-mccarthy-4b9082.netlify.app/',
     name: 'Sophia Jung',
     imgSrc: SophiaJung,
+  },
+  {
+    url: 'https://conwaysgameoflife-rilladubz.conwaysgame.vercel.app/',
+    name: 'Samuel Torres',
+    imgSrc: SamuelTorres,
   },
 ];
 
