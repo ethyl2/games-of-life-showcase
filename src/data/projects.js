@@ -15,6 +15,7 @@ import JensenKoch from '../images/JensenKoch.png';
 import DajuanMcdonald from '../images/DajuanMcdonald.png';
 import CandaceWilson from '../images/CandaceWilson.png';
 import RuthPoliakon from '../images/RuthPoliakon.png';
+import KevinCarr from '../images/KevinCarr.png';
 
 const projects = [
   {
@@ -101,6 +102,11 @@ const projects = [
     url: 'https://gameolife.netlify.app/',
     name: 'Ruth Poliakon',
     imgSrc: RuthPoliakon,
+  },
+  {
+    url: 'https://priceless-mccarthy-5a1c05.netlify.app/',
+    name: 'Kevin Carr',
+    imgSrc: KevinCarr,
   },
 ];
 
