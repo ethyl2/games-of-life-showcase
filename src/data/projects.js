@@ -1,6 +1,6 @@
 import DennisPadiernos from '../images/DennisPadiernos.png';
 import HarryMerritt from '../images/HarryMerritt.png';
-import XuHuiZhu from '../images/XuHuiZhu.png';
+import XuHuiZhu from '../images/XuHuiZhu2.png';
 import LoganNegley from '../images/LoganNegley.png';
 import HeatherNuffer1 from '../images/HeatherNuffer1.png';
 import HeatherNuffer2 from '../images/HeatherNuffer2.png';
@@ -16,6 +16,8 @@ import DajuanMcdonald from '../images/DajuanMcdonald.png';
 import CandaceWilson from '../images/CandaceWilson.png';
 import RuthPoliakon from '../images/RuthPoliakon.png';
 import KevinCarr from '../images/KevinCarr.png';
+import BradleyPitts from '../images/BradleyPitts.png';
+import RoseLandroche from '../images/RoseLandroche.png';
 
 const projects = [
   {
@@ -107,6 +109,16 @@ const projects = [
     url: 'https://priceless-mccarthy-5a1c05.netlify.app/',
     name: 'Kevin Carr',
     imgSrc: KevinCarr,
+  },
+  {
+    url: 'https://bpitts8019.github.io/game-of-life/',
+    name: 'Bradley Pitts',
+    imgSrc: BradleyPitts,
+  },
+  {
+    url: 'https://awesome-ramanujan-7d7ef5.netlify.app/',
+    name: 'Rose Landroche',
+    imgSrc: RoseLandroche,
   },
 ];
 
