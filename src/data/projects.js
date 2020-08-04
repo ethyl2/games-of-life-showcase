@@ -25,6 +25,7 @@ import AndrewSpeer from '../images/AndrewSpeer.png';
 import JoseMedrano from '../images/JoseMedrano.png';
 import LuisMatilla from '../images/LuisMatilla.png';
 import FnuMilat from '../images/FnuMilat.png';
+import VladislavBurlutskiy from '../images/VladislavBurlutskiy.png';
 
 const projects = [
   {
@@ -161,6 +162,11 @@ const projects = [
     url: 'https://fnu-milat-game-of-life.netlify.app/',
     name: 'Fnu Milat',
     imgSrc: FnuMilat,
+  },
+  {
+    url: 'https://john-conway-game.netlify.app/',
+    name: 'Vladislav Burlutskiy',
+    imgSrc: VladislavBurlutskiy,
   },
 ];
 
