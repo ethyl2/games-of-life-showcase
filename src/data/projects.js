@@ -24,6 +24,7 @@ import TanveerSaleem from '../images/TanveerSaleem.png';
 import AndrewSpeer from '../images/AndrewSpeer.png';
 import JoseMedrano from '../images/JoseMedrano.png';
 import LuisMatilla from '../images/LuisMatilla.png';
+import FnuMilat from '../images/FnuMilat.png';
 
 const projects = [
   {
@@ -155,6 +156,11 @@ const projects = [
     url: 'https://gameoflifexx37.netlify.app/',
     name: 'Luis Matilla',
     imgSrc: LuisMatilla,
+  },
+  {
+    url: 'https://fnu-milat-game-of-life.netlify.app/',
+    name: 'Fnu Milat',
+    imgSrc: FnuMilat,
   },
 ];
 
