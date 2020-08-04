@@ -21,6 +21,7 @@ import RoseLandroche from '../images/RoseLandroche.png';
 import RayThurman from '../images/RayThurman.png';
 import LynNguyen from '../images/LynNguyen.png';
 import TanveerSaleem from '../images/TanveerSaleem.png';
+import AndrewSpeer from '../images/AndrewSpeer.png';
 
 const projects = [
   {
@@ -137,6 +138,11 @@ const projects = [
     url: 'https://admiring-noyce-b885f6.netlify.app/',
     name: 'Tanveer Saleem',
     imgSrc: TanveerSaleem,
+  },
+  {
+    url: 'https://silly-noyce-305b0a.netlify.app/',
+    name: 'Andrew Speer',
+    imgSrc: AndrewSpeer,
   },
 ];
 
