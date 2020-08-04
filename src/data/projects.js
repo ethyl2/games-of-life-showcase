@@ -23,6 +23,7 @@ import LynNguyen from '../images/LynNguyen.png';
 import TanveerSaleem from '../images/TanveerSaleem.png';
 import AndrewSpeer from '../images/AndrewSpeer.png';
 import JoseMedrano from '../images/JoseMedrano.png';
+import LuisMatilla from '../images/LuisMatilla.png';
 
 const projects = [
   {
@@ -149,6 +150,11 @@ const projects = [
     url: 'https://main.d2n320kavy8voh.amplifyapp.com/',
     name: 'Jose Medrano',
     imgSrc: JoseMedrano,
+  },
+  {
+    url: 'https://gameoflifexx37.netlify.app/',
+    name: 'Luis Matilla',
+    imgSrc: LuisMatilla,
   },
 ];
 
