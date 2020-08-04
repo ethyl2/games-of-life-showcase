@@ -22,6 +22,7 @@ import RayThurman from '../images/RayThurman.png';
 import LynNguyen from '../images/LynNguyen.png';
 import TanveerSaleem from '../images/TanveerSaleem.png';
 import AndrewSpeer from '../images/AndrewSpeer.png';
+import JoseMedrano from '../images/JoseMedrano.png';
 
 const projects = [
   {
@@ -143,6 +144,11 @@ const projects = [
     url: 'https://silly-noyce-305b0a.netlify.app/',
     name: 'Andrew Speer',
     imgSrc: AndrewSpeer,
+  },
+  {
+    url: 'https://main.d2n320kavy8voh.amplifyapp.com/',
+    name: 'Jose Medrano',
+    imgSrc: JoseMedrano,
   },
 ];
 
