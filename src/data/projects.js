@@ -1,6 +1,6 @@
 import DennisPadiernos from '../images/DennisPadiernos.png';
 import HarryMerritt from '../images/HarryMerritt.png';
-import XuHuiZhu from '../images/XuHuiZhu2.png';
+import XuHuiZhu from '../images/XuHuiZhu3.png';
 import LoganNegley from '../images/LoganNegley.png';
 import HeatherNuffer1 from '../images/HeatherNuffer1.png';
 import HeatherNuffer2 from '../images/HeatherNuffer2.png';
