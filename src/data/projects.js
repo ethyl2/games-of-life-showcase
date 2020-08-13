@@ -26,6 +26,7 @@ import JoseMedrano from '../images/JoseMedrano.png';
 import LuisMatilla from '../images/LuisMatilla.png';
 import FnuMilat from '../images/FnuMilat.png';
 import VladislavBurlutskiy from '../images/VladislavBurlutskiy.png';
+import JoseOcampo from '../images/JoseOcampo.png';
 
 const projects = [
   {
@@ -167,6 +168,11 @@ const projects = [
     url: 'https://john-conway-game.netlify.app/',
     name: 'Vladislav Burlutskiy',
     imgSrc: VladislavBurlutskiy,
+  },
+  {
+    url: 'https://www.juegovida.com/',
+    name: 'Jose Ocampo',
+    imgSrc: JoseOcampo,
   },
 ];
 
